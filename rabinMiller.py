@@ -1,4 +1,5 @@
-﻿import random
+### Credit goes to https://inventwithpython.com/rabinMiller.py ###
+import random
 def rabinMiller(num):
       s = num - 1
       t = 0
